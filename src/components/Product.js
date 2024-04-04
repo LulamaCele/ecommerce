@@ -33,7 +33,7 @@ const Product = ({ product }) => {
           </button>
           <Link to={`/product/${id}`} className='w-12 h-12 bg-white flex justify-center items-center text-primary drop-shadow-xl'>
             <BsEyeFill />
-          </Link>
+          </Link> 
         </div>
       </div>
       {/* category */}
